@@ -13,6 +13,9 @@ body {
   height: 200px;
   border: 1px solid black;
 }
+.container img {
+  vertical-align: middle;
+}
 .container div {
   background-color: gainsboro;
   color: cornflowerblue;
