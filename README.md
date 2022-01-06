@@ -6,9 +6,7 @@ creando carpeta personal solo pàra probar git
 
 ### Tabla
 
-| Nombres    | Apellidos |
-| ---------- | --------- |
-| Luz Karina |
-
-Segura Angulo
-Teresa | Lucas Garcia
+| Nombres    | Apellidos     |
+| ---------- | ------------- |
+| Luz Karina | Segura Angulo |
+| Teresa     | Lucas Garcia  |
